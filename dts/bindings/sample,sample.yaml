@@ -1,5 +1,0 @@
-description: sample driver for reference
-
-compatible: "sample,sample"
-
-include: [sensor-device.yaml, i2c-device.yaml]
