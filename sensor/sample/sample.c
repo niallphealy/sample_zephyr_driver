@@ -1,4 +1,4 @@
-#define DT_DRV_COMPAT sample_sample
+#define DT_DRV_COMPAT mysample_sample
 
 #include <zephyr/drivers/sensor.h>
 #include <zephyr/drivers/i2c.h>
